@@ -33,3 +33,10 @@ int main( void )
  }
 ```
 
+This code prints:
+13 12 11
+Notice that the length of the array
+a[]
+is not specified explictly: it is set to the length of the initialization list
+{11, 12, 13}
+
