@@ -6,7 +6,7 @@
 void reverse( int arr[], unsigned int len );
 ```
 * Array `arr` is of length `len`, and contains arbitrary integer values.
-* The function should reverse the contents of the array in-place, so on returning, the array contains the same value, but in the reverse order.
+* The function should reverse the contents of the array in-place, so on returning, the array contains the same values, but in the reverse order.
 
 ## Guide
 
